@@ -3,4 +3,4 @@ Git is free software.
 modified
 modified1
 modified2
-dev switched!
+Creating a new branch is quick AND simple.
