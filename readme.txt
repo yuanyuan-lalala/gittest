@@ -7,4 +7,5 @@ Creating a new branch is quick and simple.
 a new try!
 
 关于git的一点小测试
+这是branch test
 
